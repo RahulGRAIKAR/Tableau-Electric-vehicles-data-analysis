@@ -4,7 +4,7 @@ Key Metrics & Visualizations:
 
 1. Top KPIs (at the top):
 
-Total Vehicles: 150,446
+Total Vehicles: 150,437
 
 Avg Electric Range: 67.86 miles
 
